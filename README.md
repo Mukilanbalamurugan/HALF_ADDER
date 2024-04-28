@@ -17,6 +17,8 @@ and g2(carry,a,b);
 endmodule
 ~~~
 # output
-![WhatsApp Image 2024-03-18 at 13 53 52_bda93911](https://github.com/Gopinathan6/HALF_ADDER/assets/163831807/3878696b-cf28-455b-9add-1ebefb3be85f)
+
+![halfadder pic](https://github.com/Mukilanbalamurugan/HALF_ADDER/assets/159005942/7a8ce810-459e-462c-b0ef-21325b4e5d10)
+
 # result
 hence verified sucessfully 
